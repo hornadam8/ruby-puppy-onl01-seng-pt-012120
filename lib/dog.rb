@@ -9,7 +9,7 @@ class Dog
     @@names << name
   end
   
-  def self.name
+  def name
     @name
   end
   
